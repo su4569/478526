@@ -32,4 +32,4 @@
 我们对用户隐私高度重视，确保所有观看数据的保密性。网站使用HTTPS加密连接，保护你的浏览安全。通过这层加密技术，你可以安心享受观看内容，不必担心信息泄露的问题。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/su4569/478526 ）</span>
